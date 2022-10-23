@@ -13,26 +13,41 @@ Line2
 
 Line3
 
-<!-- Line H -->
+<!-- Line H
+* * *
+---
+___
+
+ -->
 * * *
 ---
 ___
 
 
-<!-- Text Negrit -->
+<!-- Text Negrit 
+**Hello**
+__Hello__
+
+-->
 
 **Hello**
 __Hello__
 
-<!-- Text Cursive -->
+<!-- Text Cursive
 *Hello*
 _hello_
 
-<!-- Text Tachado -->
+ -->
+*Hello*
+_hello_
+
+<!-- Text Tachado Hello, you ~~Fucking child of beach~~
+-->
 
 Hello, you ~~Fucking child of beach~~
 
-<!-- Cita en bloque one -->
+<!-- Cita en bloque one >Hello Hello
+ -->
 
 >Hello Hello
 
@@ -48,7 +63,17 @@ Hello, you ~~Fucking child of beach~~
 > Hello Hello
 >
 > Hello Hello
-<!-- "" anidadas -->
+<!-- "" anidadas 
+
+> Hello Hello
+> Hello Hello
+> Hello Hello
+>>- Hello Hello
+>>- Hello Hello
+>
+> Hello Hello
+
+-->
 > Hello Hello
 > Hello Hello
 > Hello Hello
@@ -58,7 +83,10 @@ Hello, you ~~Fucking child of beach~~
 > Hello Hello
 
 
-<!-- Codigo en linea -->
+<!-- Codigo en linea 
+`notes` Ave maria santisima de `timpaco`
+
+-->
 
 `notes` Ave maria santisima de `timpaco`
 
@@ -74,17 +102,28 @@ Hello, you ~~Fucking child of beach~~
 ```
  -->
 
-<!-- List -->
-
+<!-- List 
 1. hello
 2. nafbbwefe
 4. sbhfbefheb
     1. dfbhfbwe
 11. fwuefbwebfewj 
 
+
+-->
+
 <!-- Used +, *, - -->
 
-<!-- LIst task -->
+<!-- LIst task 
+
+## Task
+
+- [ ] SIDK
+- [x] SIDK
+- [ ] SIDK
+- [x] SIDK
+
+-->
 ## Task
 
 - [ ] SIDK
@@ -93,7 +132,12 @@ Hello, you ~~Fucking child of beach~~
 - [x] SIDK
 
 
-<!-- Links -->
+<!-- Links
+
+
+Hello [xvera](https://facebook.com "post?=s51518dedefefe")
+
+ -->
 
 Hello [xvera](https://facebook.com "post?=s51518dedefefe")
 
